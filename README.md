@@ -1,2 +1,2 @@
-# LANGL1372Pr-sentationRaspberryPi
+# LANGL1372PresentationRaspberryPi
 Préparation de la présentation orale de LANGL1372 sur les RaspBerryPi en binôme, Antonio et Antoine.
