@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}The Raspberry Pi Foundation}{2}
+\contentsline {subsection}{\numberline {1.1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.2}History}{2}
+\contentsline {subsubsection}{\numberline {1.2.1}Co-founder}{2}
+\contentsline {subsubsection}{\numberline {1.2.2}Collaboration}{2}
+\contentsline {subsection}{\numberline {1.3}Why the Raspberry Pi}{2}
+\contentsline {subsubsection}{\numberline {1.3.1}The idea behind}{2}
+\contentsline {subsubsection}{\numberline {1.3.2}Interaction with computers}{2}
+\contentsline {subsection}{\numberline {1.4}Logo}{2}
+\contentsline {section}{\numberline {2}The Raspberry Pi}{2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}What is it ?}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Where does he come from ?}{2}
+\contentsline {subsubsection}{\numberline {2.1.3}Feature}{2}
+\contentsline {subsubsection}{\numberline {2.1.4}Operating system}{2}
+\contentsline {subsection}{\numberline {2.2}Hardware}{2}
+\contentsline {subsection}{\numberline {2.3}Overclocking}{2}
+\contentsline {subsubsection}{\numberline {2.3.1}What is it ?}{2}
+\contentsline {subsubsection}{\numberline {2.3.2}Why should we overclock ?}{2}
+\contentsline {subsubsection}{\numberline {2.3.3}The risk behind the overclocking}{2}
+\contentsline {subsubsection}{\numberline {2.3.4}Heat sink or not ?}{2}
+\contentsline {subsection}{\numberline {2.4}Networking}{2}
+\contentsline {subsection}{\numberline {2.5}Software}{2}
+\contentsline {subsubsection}{\numberline {2.5.1}OS}{2}
+\contentsline {subsection}{\numberline {2.6}Alternatives}{2}
+\contentsline {subsubsection}{\numberline {2.6.1}BeagleBoard}{2}
+\contentsline {subsubsection}{\numberline {2.6.2}Arduino ?}{2}
+\contentsline {section}{\numberline {3}Projects}{2}
